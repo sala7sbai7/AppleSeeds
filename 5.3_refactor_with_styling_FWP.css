@@ -1,0 +1,14 @@
+html {background-color:#b3ccba;color: #B39C4D;}
+.Main {display: inline-flex;}
+.div1 {background-color: #B39C4D; height: 500px ; width: 305px; margin-right: 15px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);border-radius: 30px;color: #607744;}
+.div2 {background-color: #607744; height: 500px;width: 305px;margin-right: 15px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);border-radius: 30px;}
+.div3 {background-color: #34623F; height: 500px;width: 305px;margin-right: 15px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);border-radius: 30px;}
+.div4 {background-color: #768948; height: 500px;width: 305px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);border-radius: 30px;}
+.img1 {margin-top: 2px; margin-left: 2px; margin-right: 2px;border-radius: 25px 25px 5px 5px;}
+.img2 {margin-top: 2px; margin-left: 2px; margin-right: 2px;border-radius: 25px 25px 5px 5px;}
+.img3 {margin-top: 2px; margin-left: 2px; margin-right: 2px;border-radius: 25px 25px 5px 5px;}
+.img4 {margin-top: 2px; margin-left: 2px; margin-right: 2px;border-radius: 25px 25px 5px 5px;}
